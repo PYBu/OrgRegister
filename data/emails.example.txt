@@ -1,0 +1,4 @@
+# OrgRegister credential pool template
+# Six fields per line, separated by four hyphens:
+# MS_EMAIL----MS_PASSWORD----MS_UUID----MSA_REFRESH_TOKEN----TEMP_EMAIL----TEMP_PASSWORD
+# Keep real credentials in local data/emails.txt; that file is ignored by Git.
